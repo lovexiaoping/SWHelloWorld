@@ -1,0 +1,22 @@
+{
+  "name": "SWHelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of SWHelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lovexiaoping/SWHelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lovexiaoping": "engine-core@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lovexiaoping/SWHelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SWHelloWorld/Classes/**/*"
+}
